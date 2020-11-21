@@ -1,2 +1,1 @@
-- which library to use for interacting with justWatch?
-- justWatch API available
+- justWatch unofficial api seems bugged; JustWatch() class object unable to intitialize
