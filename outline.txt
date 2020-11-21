@@ -1,0 +1,2 @@
+- which library to use for interacting with justWatch?
+- justWatch API available
